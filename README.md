@@ -1,2 +1,3 @@
 # Deep-Learning
-Collection of Projects from the Deep Learning Class Fall 2018
+Collection of Deep Learning Projects using PyTorch
+From the Deep Learning Class Fall 2018
