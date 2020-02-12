@@ -5,8 +5,8 @@ import math
 from collections import defaultdict
 
 
-word2idx  =  torch.load('../../data/ptb/word2idx.pt')
-idx2word  =  torch.load('../../data/ptb/idx2word.pt')
+word2idx  =  torch.load('data/ptb/word2idx.pt')
+idx2word  =  torch.load('data/ptb/idx2word.pt')
 
 
 word2idx_temp=defaultdict(lambda:26)
