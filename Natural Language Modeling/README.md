@@ -1,4 +1,4 @@
-# 2 Layer LSTM model on PTB dataset
+# 2 Layer LSTM Natural Language Modeling on PTB (Penn Tree Bank) Dataset using PyTorch
 
 Initial template was made by Professor Laurent, Loyola Marymount University.
 
